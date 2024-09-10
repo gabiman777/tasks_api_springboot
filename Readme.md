@@ -13,7 +13,7 @@ Lombok
 Go to root folder:
 cd springboot-api-tasks
 
-Execute this command:
+Execute this command in shell or any IDE like Intellij IDEA or Netbeans:
 mvn spring-boot:run
 
 #How to test
